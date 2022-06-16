@@ -1,0 +1,9 @@
+Package: com.arichorn.ytrenotifications
+Name: YTReNotifications
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Repositions the Notifications tab from and places it back to the bottom where it should’ve been in the YouTube app.
+Maintainer: arichorn
+Author: arichorn
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
